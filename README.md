@@ -6,6 +6,11 @@
 - 💡 Interesse em React, Node, Docker e Kubernetes
 - 📫 Contate-me no e-mail: breno.borges.15@outlook.com
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno-borges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-borges&layout=compact&langs_count=10&count_private=true&theme=tokyonight"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Breno-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
