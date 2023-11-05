@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Breno 👋
 
-- 🔭 Hoje eu trabalho como Analista de Suporte II
+- 🔭 Atualmente sou Analista de Suporte II
 - 🐬 Utilizo o MySQL no trabalho
 - 🌱 Estudando Java e Spring
 - 💡 Interesse em React, Node, Docker e Kubernetes
