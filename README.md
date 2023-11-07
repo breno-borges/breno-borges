@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Breno 👋
 
-- 🔭 Atualmente sou Analista de Suporte II
-- 🐬 Utilizo o MySQL no trabalho
-- 🌱 Estudando Java e Spring
-- 💡 Interesse em React, Node, Docker e Kubernetes
+- 🔭 Analista de Suporte II;
+- 🐬 MySQL;
+- 🌱 Estudando Java e Spring;
+- 💡 Interesse em React, Node, Docker e Kubernetes;
 - 📫 Contate-me no e-mail: breno.borges.15@outlook.com
 
 <div align="center">
