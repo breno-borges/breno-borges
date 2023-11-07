@@ -2,8 +2,8 @@
 
 - 🔭 Analista de Suporte II;
 - 🐬 MySQL;
-- 🌱 Estudando Java e Spring;
-- 💡 Interesse em React, Node, Docker e Kubernetes;
+- 🌱 Estudando Java, Spring e Docker;
+- 💡 Interesse em React, Node e Kubernetes;
 - 📫 Contate-me no e-mail: breno.borges.15@outlook.com
 
 <div align="center">
