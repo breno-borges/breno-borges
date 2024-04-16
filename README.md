@@ -4,7 +4,7 @@
 - 🐬 MySQL;
 - 👨‍🎓 Cursando Bacharelado em Sistemas de Informação;
 - 🌱 Estudando Java, Spring, API REST, Docker e PostgreSQL;
-- 💡 Interesse em React, Node e Kubernetes;
+- 💡 Interesse em React, Node, Kubernetes e Oracle;
 
 ##
 <div align="center">
