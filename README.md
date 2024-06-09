@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Breno 👋
 
 - 🔭 Analista de Suporte II;
-- 🐬 MySQL;
+- Oracle Database;
 - 👨‍🎓 Cursando Bacharelado em Sistemas de Informação;
-- 🌱 Estudando Java, Spring, API REST, Docker e PostgreSQL;
-- 💡 Interesse em React, Node, Kubernetes e Oracle;
+- 🌱 Estudando Oracle Database, Java, Spring, API REST;
 
 ##
 <div align="center">
@@ -15,6 +14,7 @@
 ##
 ### Principais Tecnologias
 <div style="display: inline_block"><br>
+  <img align="center" alt="Breno-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
   <img align="center" alt="Breno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Breno-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Breno-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
