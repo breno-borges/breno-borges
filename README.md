@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Breno 👋
 
 - 🔭 Analista de Suporte II;
-- Oracle Database;
 - 👨‍🎓 Cursando Bacharelado em Sistemas de Informação;
 - 🌱 Estudando Oracle Database, Java, Spring, API REST;
 
