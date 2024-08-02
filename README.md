@@ -2,7 +2,7 @@
 
 - 🔭 Analista de Suporte II;
 - 👨‍🎓 Cursando Bacharelado em Sistemas de Informação;
-- 🌱 Estudando Oracle Database, Java, Spring, API REST;
+- 🌱 Estudando Java, Spring, API REST e Oracle Database;
 
 ##
 <div align="center">
@@ -27,6 +27,4 @@
 ### Contate-me
 <div> 
   <a href="https://www.linkedin.com/in/breno-dos-santos-borges-4471591b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/users/718584575080792154" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:breno.borges.15@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?" target="_blank"></a>
 </div>
