@@ -28,3 +28,9 @@
 <div> 
   <a href="https://www.linkedin.com/in/breno-dos-santos-borges-4471591b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+##
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/brenoborges/count.svg" />
+</p>
