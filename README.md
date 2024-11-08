@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Breno 👋
 
+- ☕ Desenvolvedor Java Back-End;
 - 🔭 Analista de Suporte II;
 - 👨‍🎓 Cursando Bacharelado em Sistemas de Informação;
-- 🌱 Estudando Java, Spring, API REST e Oracle Database;
+- 🌱 Estudando Java, Spring, API REST e Banco de Dados;
 
 ##
 <div align="center">
