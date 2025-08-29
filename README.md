@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Breno 👋
 
 - ☕ Desenvolvedor Java Back-End;
-- 🔭 Analista de Operações;
 - 👨‍🎓 Cursando Bacharelado em Sistemas de Informação;
-- 🌱 Estudando Java, Spring, API REST e Banco de Dados;
+- 🌱 Java, Spring, API REST, Docker, Azure DevOps, AWS;
 
 ##
 <div align="center">
@@ -22,6 +21,9 @@
   <img align="center" alt="Breno-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Breno-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Breno-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="Breno-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img align="center" alt="Breno-DevOps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+  <img align="center" alt="Breno-ELK" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg"/>        
 </div>
 
 ##
@@ -33,5 +35,5 @@
 ##
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/brenoborges/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=breno-borges&color=blue&style=flat-square&label=VISITAS" />
 </p>
