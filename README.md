@@ -29,7 +29,12 @@
 ##
 ### Contate-me
 <div> 
-  <a href="https://www.linkedin.com/in/breno-dos-santos-borges-4471591b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/breno-dos-santos-borges-4471591b4/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://devbrenoborges.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-%23000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+  </a>
 </div>
 
 ##
