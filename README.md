@@ -24,12 +24,13 @@
   <img align="center" alt="Breno-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
   <img align="center" alt="Breno-DevOps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
   <img align="center" alt="Breno-ELK" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg"/>        
+  <img align="center" alt="Breno-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"/>
 </div>
 
 ##
 ### Contate-me
 <div> 
-  <a href="https://www.linkedin.com/in/breno-dos-santos-borges-4471591b4/" target="_blank">
+  <a href="https://www.linkedin.com/in/breno-borges/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://devbrenoborges.com" target="_blank">
