@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Breno 👋
 
 - ☕ Desenvolvedor Java Back-End;
-- 👨‍🎓 Cursando Bacharelado em Sistemas de Informação;
-- 🌱 Java, Spring, API REST, Docker, Azure DevOps, AWS;
+- 👨‍🎓 Bacharel em Sistemas de Informação;
+- 🌱 Java, Spring, API REST, Docker, DevOps, Jenkins e AWS;
 
 ##
 <div align="center">
