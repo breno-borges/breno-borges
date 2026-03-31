@@ -1,17 +1,17 @@
-### Olá! Eu sou o Breno 👋
+### Hi! I'm Breno 👋
 
-- ☕ Desenvolvedor Java Back-End;
-- 👨‍🎓 Bacharel em Sistemas de Informação;
-- 🌱 Java, Spring, API REST, Docker, DevOps, Jenkins e AWS;
+Backend Engineer specialized in Java and Spring Boot with experience building scalable APIs and backend systems.
+
+I work with modern backend architectures focused on performance, reliability and clean code. My experience includes designing RESTful APIs, implementing CI/CD pipelines and deploying applications in cloud environments.
+
+I also have experience with cloud environments and infrastructure automation, working closely with architecture and DevOps practices.
+
+AWS Certified Cloud Practitioner.
+
+Currently open to remote international opportunities.
 
 ##
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno-borges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-borges&layout=compact&langs_count=10&count_private=true&theme=tokyonight"/>
-</div>
-
-##
-### Principais Tecnologias
+### Main Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
   <img align="center" alt="Breno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -28,7 +28,7 @@
 </div>
 
 ##
-### Contate-me
+### Contact me
 <div> 
   <a href="https://www.linkedin.com/in/breno-borges/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
