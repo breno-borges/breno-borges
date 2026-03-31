@@ -8,7 +8,7 @@ I also have experience with cloud environments and infrastructure automation, wo
 
 AWS Certified Cloud Practitioner.
 
-Currently open to remote international opportunities.
+Currently open to remote opportunities.
 
 ##
 ### Main Technologies
