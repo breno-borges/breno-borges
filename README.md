@@ -2,6 +2,8 @@
 
 Backend Engineer specialized in Java and Spring Boot with experience building scalable APIs and backend systems.
 
+I hold a Bachelor's degree in Information Systems.
+
 I work with modern backend architectures focused on performance, reliability and clean code. My experience includes designing RESTful APIs, implementing CI/CD pipelines and deploying applications in cloud environments.
 
 I also have experience with cloud environments and infrastructure automation, working closely with architecture and DevOps practices.
